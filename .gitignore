@@ -9,7 +9,7 @@ cypress/videos/
 cypress/screenshots/
 cypress/downloads/
 
-# Env (dados sensíveis)
+# Env
 .env
 .env.*
 
@@ -25,6 +25,6 @@ Thumbs.db
 .vscode/
 .idea/
 
-# Build (caso tenha no futuro)
+# Build
 dist/
 build/
